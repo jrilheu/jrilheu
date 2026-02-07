@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior Jose Ilheu L.</h1>
-<h3 align="center">A zealous developer from Spain</h3>
+<h3 align="center">A enthusiastic developer from Spain</h3>
 
 -📫 How to reach me: **jilheu07@gmail.com**
 
