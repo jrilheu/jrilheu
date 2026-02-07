@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junior Jose Ilheu L.</h1>
 <h3 align="center">A zealous developer from Spain</h3>
 
-<p align="left">
-  <a href="https://twitter.com/jrilheu" target="blank"><img src="https://img.shields.io/twitter/follow/jrilheu?logo=twitter&style=for-the-badge" alt="jrilheu" /></a>
-</p>
-
--📫 How to reach me **jilheu07@gmail.com**
+-📫 How to reach me: **jilheu07@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
